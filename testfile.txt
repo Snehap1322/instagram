@@ -1,5 +1,0 @@
-This is a simple test file.
-Used for Git practice.
-
-#hello text file
-
